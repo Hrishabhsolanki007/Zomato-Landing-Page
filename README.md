@@ -1,3 +1,3 @@
-#This is my zomato landing page
+# This is my zomato landing page
 
-##Done with the first commit
+## Done with the first commit.
